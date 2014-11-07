@@ -1,5 +1,5 @@
 # Tools for the 21st century musician
-> A talk for Full Frontal 2014, Brighton, England
+> A talk for Full Frontal 2014, in rainy/sunny/cloudy/haily/cloudy Brighton, England
 
 ## Video
 

@@ -7,7 +7,7 @@ Not yet!
 
 ## View slides online
 
-Here: [http://soledadpenades.com/files/t/20141107_ffconf/](http://soledadpenades.com/files/t/20141108_ffconf/)
+Here: [http://soledadpenades.com/files/t/20141107_ffconf/](http://soledadpenades.com/files/t/20141107_ffconf/)
 
 ## View slides locally
 
